@@ -1,5 +1,5 @@
 <?php
-print "Olá Mundo! versão do PHP é " . PHP_VERSION . "\n";
-print "Mudanças estão vindo!\n";
+print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "A change is in the air!\n";
 ?>
 
